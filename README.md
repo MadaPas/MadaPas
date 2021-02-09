@@ -48,9 +48,11 @@
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=MadaPas&count_private=true&show_icons=true&theme=cobalt">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=MadaPas&count_private=true&show_icons=true&theme=cobalt" />
 </a>
+<!--
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=MadaPas&theme=cobalt">
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=MadaPas&theme=cobalt" />
 </a>
+-->
 </div>
 
 
