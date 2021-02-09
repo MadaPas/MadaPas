@@ -1,4 +1,4 @@
-## Hi there 👋 I'm [Madalina] but you can call me Mada 😀
+## Hi there 👋 I'm Madalina, but you can call me Mada 😀
 [![Github](https://img.shields.io/github/followers/MadaPas?label=Followers&logo=Github)](https://github.com/MadaPas)
 
 
