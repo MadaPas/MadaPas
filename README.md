@@ -5,7 +5,7 @@
 
 
 ## 🎓 I'm a Bachelor Software Development student at KEA School of Design and Technology in Copenhagen - Denmark
-## 🧰 At the same time, I am a Stack Javascript Developer at School of applied technology <​/salt>, Gothenburg - Sweden
+## 🧰 At the same time, I am a FullStack Javascript Developer at School of applied technology <​/salt>, Gothenburg - Sweden
 
 - 🔭 I’m currently developing several NodeJs applications.
 - 🌱 I’m currently learning React.
