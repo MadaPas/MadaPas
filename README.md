@@ -10,14 +10,6 @@
 - 🔭 I’m currently developing several NodeJs applications.
 - 🌱 I’m currently learning React.
 
-## Some of my projects under development
-- [My resume](https://cv.madapas.vercel.app/)
-- [Cocktail Generator](https://cocktails.madapas.vercel.app/)
-- [Responsive Website](https://madapas.vercel.app/)
-- [Music Player](https://chillin.madapas.vercel.app/)
-- [Netflix Landing Page](https://netflix.madapas.vercel.app/)
-- [Gallery M4J - from SALT bootcamp](https://gallery-m4-j.vercel.app/){:target="_blank" rel="noopener"}
-
 ## :email: Find me on:
 
 <!--
@@ -33,7 +25,15 @@
 
 <br />
 
+## Some of my projects under development
+- [My resume](https://cv.madapas.vercel.app/)
+- [Cocktail Generator](https://cocktails.madapas.vercel.app/)
+- [Responsive Website](https://madapas.vercel.app/)
+- [Music Player](https://chillin.madapas.vercel.app/)
+- [Netflix Landing Page](https://netflix.madapas.vercel.app/)
+- [Gallery M4J - from SALT bootcamp](https://gallery-m4-j.vercel.app/)
 
+<br />
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
