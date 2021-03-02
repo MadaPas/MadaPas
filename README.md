@@ -16,9 +16,7 @@
 - [Responsive Website](https://madapas.vercel.app/)
 - [Music Player](https://chillin.madapas.vercel.app/)
 - [Netflix Landing Page](https://netflix.madapas.vercel.app/)
-- [Gallery M4J - from SALT bootcamp](https://gallery-m4-j.vercel.app/)
-
-%md <a href="https://cv.madapas.vercel.app/" target="_blank">My resume</a>
+- [Gallery M4J - from SALT bootcamp](https://gallery-m4-j.vercel.app/){:target="_blank" rel="noopener"}
 
 ## :email: Find me on:
 
