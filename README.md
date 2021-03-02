@@ -31,7 +31,7 @@
 - [Responsive Website](https://madapas.vercel.app/)
 - [Music Player](https://chillin.madapas.vercel.app/)
 - [Netflix Landing Page](https://netflix.madapas.vercel.app/)
-- [Gallery M4J - from SALT bootcamp](https://gallery-m4-j.vercel.app/)
+- [Gallery M4J - from SALT bootcamp](https://gallery-m4-j-madapas.vercel.app/)
 
 <br />
 
