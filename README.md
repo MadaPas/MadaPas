@@ -11,12 +11,12 @@
 - 🌱 I’m currently learning React.
 
 ## Some of my projects under development
-[My resume](https://cv.madapas.vercel.app/)
-[Cocktail Generator](https://cocktails.madapas.vercel.app/)
-[Responsive Website](https://madapas.vercel.app/)
-[Music Player](https://chillin.madapas.vercel.app/)
-[Netflix Landing Page](https://netflix.madapas.vercel.app/)
-[Gallery M4J - from SALT bootcamp](https://gallery-m4-j.vercel.app/)
+- [My resume](https://cv.madapas.vercel.app/)
+- [Cocktail Generator](https://cocktails.madapas.vercel.app/)
+- [Responsive Website](https://madapas.vercel.app/)
+- [Music Player](https://chillin.madapas.vercel.app/)
+- [Netflix Landing Page](https://netflix.madapas.vercel.app/)
+- [Gallery M4J - from SALT bootcamp](https://gallery-m4-j.vercel.app/)
 
 ## :email: Find me on:
 
